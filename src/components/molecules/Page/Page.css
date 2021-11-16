@@ -1,0 +1,8 @@
+.page {
+    color: blue;
+    font-weight: medium;
+    background-color: grey;
+    border: none;
+    padding: .8em 1em;
+    border-radius: .2rem;
+  }
